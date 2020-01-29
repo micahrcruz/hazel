@@ -6,4 +6,4 @@ coursework, research projects, and solo projects on things like kaggle datasets.
 
 dbscan.ipynb: First attempt at clustering Ca45 waveform data using DBSCAN
 
-ML_proj2.ipynb: Implementing PCA and k-means clustering on data about universities
+clustering_for_dummies_p1.ipynb: Introduction to clustering for students in the fundamental neutron physics research group at UTK.
